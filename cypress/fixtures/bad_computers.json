@@ -1,0 +1,36 @@
+{
+    "computers": [
+        {
+          "name": "No Computer",
+          "introduced": "0",
+          "discontinued": "2022-12-31",
+          "company": "Apple Inc."
+        },
+        {
+          "name": "Titanic",
+          "introduced": "2022-02-01",
+          "discontinued": "0",
+          "company": "Nokia"
+        },
+        {
+          "name": "Rose",
+          "introduced": "0",
+          "discontinued": "0",
+          "company": "Apple Inc."
+        },
+        {
+          "name": "Jack",
+          "introduced": "!@#",
+          "discontinued": "!@#",
+          "company": "Apple Inc."
+        },
+        {
+          "name": "Patrick",
+          "introduced": "0",
+          "discontinued": "0",
+          "company": ""
+        }
+
+        
+      ]
+}

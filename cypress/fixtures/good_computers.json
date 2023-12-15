@@ -1,0 +1,60 @@
+{
+  "computers": [
+    {
+      "name": "Computer1",
+      "introduced": "2022-01-01",
+      "discontinued": "2022-12-31",
+      "company": "Apple Inc."
+    },
+    {
+      "name": "ACE",
+      "introduced": "2022-01-01",
+      "discontinued": "2022-12-31",
+      "company": "Apple Inc."
+    },
+    {
+      "name": "Barnes & Noble nook",
+      "introduced": "2022-02-01",
+      "discontinued": "2022-11-30",
+      "company": "Nokia"
+    },
+    {
+      "name": "Computer2",
+      "introduced": "2022-02-01",
+      "discontinued": "2022-11-30",
+      "company": "Nokia"
+    },
+    {
+      "name": "AN/FSQ-32",
+      "introduced": "2022-02-01",
+      "discontinued": "2023-05-25",
+      "company": "IBM"
+    },
+    {
+      "name": "ASCI Blue Mountain",
+      "introduced": "2022-02-01",
+      "discontinued": "2022-02-01",
+      "company": "Xerox"
+    },
+    {
+      "name": "ARRA",
+      "introduced": "2022-02-01",
+      "discontinued": "2022-02-01",
+      "company": "Zemmix"
+    },
+    {
+      "name": "ASCI Thors Hammer",
+      "introduced": "2022-02-01",
+      "discontinued": "2022-02-01",
+      "company": ""
+    },
+    {
+      "name": "APEXC",
+      "introduced": "2022-02-01",
+      "discontinued": "2022-02-01",
+      "company": "RCA"
+    }
+    
+
+  ]
+}
