@@ -265,7 +265,7 @@ Then("I should see the success message for deleting {string}",(computerName)=>{
     const containsExpectedComputerName = text.includes(computerName);
     const containsUpdateMessage = text.includes(updateMessage);
 
-    expect(containsExpectedComputerName && containsUpdateMessage).to.be.true;
+      expect(containsExpectedComputerName && containsUpdateMessage).to.be.true;
   });
   
 })
