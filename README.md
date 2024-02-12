@@ -36,6 +36,10 @@ npm install
 ```bash
 npm test
 ```
+## Running Tests Visual Mode
+```bash
+npx cypress open
+```
 This command will launch Cypress and execute the Cucumber feature files.
 
 ## Folder Structure
